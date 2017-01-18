@@ -1,0 +1,25 @@
+{
+  "name": "mochatest",
+  "version": "1.0.0",
+  "description": "a mocha test",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XavierSTG/MochaTest.git"
+  },
+  "keywords": [
+    "mocha"
+  ],
+  "author": "Xavier St-Georges",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/XavierSTG/MochaTest/issues"
+  },
+  "homepage": "https://github.com/XavierSTG/MochaTest#readme",
+  "dependencies": {
+    "mocha": "^3.2.0"
+  }
+}
